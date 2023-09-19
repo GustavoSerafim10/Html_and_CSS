@@ -1,0 +1,12 @@
+body a{
+    font-family: Arial, sans-serif;
+    background-color: #b614df;
+    margin: 0; 
+    padding: 0; 
+}
+
+h1, h2, h4,{
+    text-align: center;
+    background-color: #fff; 
+    margin: 25px 0;
+}
